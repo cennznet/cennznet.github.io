@@ -1,0 +1,2 @@
+# Node In the Cloud
+CENNZNet Infrastructure (UNfrastructure) provides load-balanced nodes in the cloud service for seamless CENNZNet access without the need of running your own nodes e.g. for development. The UNfrastructure provides JSON-RPC over Websocket and HTTPS APIs for subscribing to CENNZNet blockchain events. Learn more about Unfrastructure API and start a new project now, got the [unfrastructure.io](https://unfrastructure.io/about).

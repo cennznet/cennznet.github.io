@@ -1,0 +1,2 @@
+# About This Guide
+This document provides an overview of CENNZNet, a public blockchain network that is an implementation of the PL^G blockchain framework and toolkit. It captures ways in which users would want to participate in the CENNZNet network and the CENNZNet project; it introduces a series of protocols that can be leveraged to build decentralised applications (dApps), as well as tools and resources that can be used to interact with CENNZNet.

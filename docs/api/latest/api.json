@@ -1,0 +1,38 @@
+[
+  {
+    "topic": "Api References",
+    "title": "@cennznet/api",
+    "format": "markdown",
+    "path": "/api/modules/_cennznet_api.md"
+  },
+  {
+    "topic": "Api References",
+    "title": "@cennznet/cli",
+    "format": "markdown",
+    "path": "/api/modules/_cennznet_cli.md"
+  },
+  {
+    "topic": "Api References",
+    "title": "@cennznet/wallet",
+    "format": "markdown",
+    "path": "/api/modules/_cennznet_wallet.md"
+  },
+  {
+    "topic": "Api References",
+    "title": "@cennznet/util",
+    "format": "markdown",
+    "path": "/api/modules/_cennznet_util.md"
+  },
+  {
+    "topic": "Api References",
+    "title": "@cennznet/crml-generic-asset",
+    "format": "markdown",
+    "path": "/api/modules/_cennznet_crml_generic_asset.md"
+  },
+  {
+    "topic": "Api References",
+    "title": "@cennznet/crml-cennzx-spot",
+    "format": "markdown",
+    "path": "/api/modules/_cennznet_crml_cennzx_spot.md"
+  }
+]
